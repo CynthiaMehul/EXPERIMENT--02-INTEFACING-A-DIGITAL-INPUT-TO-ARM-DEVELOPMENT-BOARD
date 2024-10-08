@@ -85,7 +85,7 @@ int main(void)
     	HAL_Delay(2000);
     }
   }
-
+```
 ## Output  :
  
 ## layout of the circuit 
